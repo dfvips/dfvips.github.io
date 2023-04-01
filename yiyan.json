@@ -1,0 +1,11 @@
+{
+    "name": "文心一言",
+    "short_name": "文心一言",
+    "lang": "zh",
+    "orientation": "portrait-primary",
+    "start_url": "/",
+    "background_color": "black-translucent",
+    "theme_color": "#fff",
+    "display": "standalone",
+    "description": "文心一言iOS本地化应用设置状态栏和应用信息。"
+}
